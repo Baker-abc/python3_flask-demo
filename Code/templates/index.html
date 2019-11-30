@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='hello.css') }}">
+</head>
+<body>
+<h1>Hello {{username}}</h1>
+<a href="{{url_for('logout')}}">
+    <button>logout</button>
+</a>
+</body>
+</html>
