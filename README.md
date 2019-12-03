@@ -1,5 +1,5 @@
-# python3_httpserver_demo
-learning
+# python3_flask_demo
+learning in windows
 
 pip install virtualenv  <br>
 pip install flask==1.0.2 <br>
