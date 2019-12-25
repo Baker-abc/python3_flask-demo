@@ -1,8 +1,7 @@
 # python3_flask_demo
 ## learning in windows
 
-## pip install virtualenv  <br>
-## pip install flask==1.0.2 <br>
+#### pip install -r requirements.txt
 
 #Code：test <br>
 #flaskr： 简易demo <br>
