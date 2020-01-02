@@ -1,6 +1,7 @@
 # python3_flask_demo
 ## learning in windows
 
+#### pip freeze >requirements.txt
 #### pip install -r requirements.txt
 
 #Code：test <br>
